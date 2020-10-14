@@ -1,3 +1,5 @@
+# Employees Table
+To start the apllication, please follow the next two steps
 
 ### `npm install`
 ### `npm run dev`
@@ -14,3 +16,4 @@
 - React ( React Hooks, Styled Components)
 - Node.js
 
+![table view](./imageTable.png)
